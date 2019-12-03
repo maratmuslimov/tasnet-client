@@ -8,7 +8,7 @@ Section: net
 Maintainer: Matteo Valentini <matteo.valentini@nethesis.it>
 Architecture: mips_24kc
 Installed-Size: 257442
-Filename: coova-chilli-dedalo_1.3.0+20141128-1_mips_24kc.ipk
+Filename: coova-chilli-dedalo_1.3.0.ipk
 Size: 258080
 SHA256sum: 2c9c77b40f7a26b9e773886a2b30be6dacb40f5206d676ece81384137371c06a
 Description:  CoovaChilli is an open source access controller for wireless LAN
